@@ -148,10 +148,10 @@ export default function Contact() {
             </a>
           ))}
         </div>
-        <div style={styles.footer}>
+        {/* <div style={styles.footer}>
           <p style={styles.footerText}>
           </p>
-        </div>
+        </div> */}
       </div>
     </section>
   );
